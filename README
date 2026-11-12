@@ -1,0 +1,58 @@
+# Crop Recommendation and Soil Profile Analysis
+
+## 1. Project Overview
+This project aims to recommend suitable crops based on soil nutrients and environmental conditions using Machine Learning techniques.
+
+## 2. Dataset
+The project uses the Crop Recommendation Dataset containing 2,200 samples, 8 columns, and 22 different crop classes.
+
+Features include:
+- Nitrogen (N)
+- Phosphorus (P)
+- Potassium (K)
+- Temperature
+- Humidity
+- pH
+- Rainfall
+
+Target variable: Crop Label.
+
+## 3. Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Google Colab
+
+## 4. Machine Learning Methods
+The project investigates classification and clustering techniques, including:
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- K-Nearest Neighbors
+- Support Vector Machine
+- Gaussian Naive Bayes
+- Gradient Boosting
+- K-Means
+- Gaussian Mixture Model
+
+## 5. Project Structure
+- data/: Dataset files
+- notebooks/: Jupyter notebooks
+- src/: Python source code
+
+## 6. Team Members
+- Khalid Alrasheed
+- Abdulmajeed Aljasir
+- Khaled Waleed Alfehaid
+- Yousef Alsehibani
+
+## 7. Results
+The final results and model evaluation are documented in the project report.
+
+## 8. How to Run
+1. Install the required Python libraries.
+2. Open the project notebook using Google Colab or Jupyter Notebook.
+3. Load the dataset.
+4. Run the notebook cells in order.
