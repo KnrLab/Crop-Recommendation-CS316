@@ -40,18 +40,17 @@ The project investigates classification and clustering techniques, including:
 5. Project Structure
 - data/: Dataset files
 - notebooks/: Jupyter notebooks
-- src/: Python source code
 
 6. Team Members
 - Khalid Alrasheed
 - Abdulmajeed Aljasir
-- Khaled Waleed Alfehaid
+- Khaled Alfehaid
 - Yousef Alsehibani
 
 7. Results
 The final results and model evaluation are documented in the project report.
 
-8. How to Run
+8. How to Run?
 1. Install the required Python libraries.
 2. Open the project notebook using Google Colab or Jupyter Notebook.
 3. Load the dataset.
